@@ -1,2 +1,4 @@
 # HelloWorld
-Learning Git
+
+Hello!
+Learning Python and Git
